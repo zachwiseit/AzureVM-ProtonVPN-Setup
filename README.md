@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial will show the necessary steps to setup Proton VPN on a virtual Machine.<br />
 
 
 <h2>Video Demonstration</h2>
