@@ -14,7 +14,7 @@ This tutorial will show the necessary steps to setup Proton VPN on a virtual Mac
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Proton VPN
-- [](https://whatismyipaddress.com/)
+- https://whatismyipaddress.com
 
 <h2>Operating Systems Used </h2>
 
