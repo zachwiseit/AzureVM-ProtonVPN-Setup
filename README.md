@@ -33,7 +33,7 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 <h2>Deployment and Configuration Steps</h2>
 
 
-![image](https://github.com/user-attachments/assets/20641480-2abf-4ec8-b5d8-ce8e0b0e8a2e)
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
