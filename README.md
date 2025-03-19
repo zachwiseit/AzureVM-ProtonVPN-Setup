@@ -19,7 +19,7 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 
 - macOS Sonama 14.6.1
 
 <h2>Deployment and Configuration Steps</h2>
