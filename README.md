@@ -6,7 +6,7 @@
 This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 virtual Machine.<br />
 
 
-<h2>Video Demonstration</h2>
+
 
 
 <h2>Environments and Technologies Used</h2>
