@@ -78,11 +78,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/user-attachments/assets/0903a0e0-e9c9-4b20-bc8b-28ba18d2fcbb)
 15
 ![image](https://github.com/user-attachments/assets/493c8c56-51fc-4f1d-8d32-5e2178fa0e56)
-16
-![image](https://github.com/user-attachments/assets/959aeda2-a5fe-414a-a074-3568c7412175)
-17
-![image](https://github.com/user-attachments/assets/8eecf86c-c633-4b6a-b79f-048310edd237)
-18
-![image](https://github.com/user-attachments/assets/cb8cfa41-a6bc-4770-8e17-5f1005e3c238)
-19
-![image](https://github.com/user-attachments/assets/e50d600a-4a05-4d08-8f8b-41eea46d1d07)
