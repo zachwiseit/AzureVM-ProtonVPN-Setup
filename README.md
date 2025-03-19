@@ -12,7 +12,7 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Windows App
 - Proton VPN
 - https://whatismyipaddress.com
 
