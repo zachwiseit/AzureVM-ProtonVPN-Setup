@@ -27,7 +27,7 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 - Build Virtual Machines in Azure 
 - Test IP address without a VPN 
 - Configure Proton VPN 
-- Compare the IP address
+- Compare the IP addresses
 - Test different websites 
 
 <h2>Deployment and Configuration Steps</h2>
