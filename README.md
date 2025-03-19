@@ -22,7 +22,7 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 - Windows 10 
 - macOS Sonama 14.6.1
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
 - Build Virtual Machines in Azure 
 - Test IP address without a VPN 
