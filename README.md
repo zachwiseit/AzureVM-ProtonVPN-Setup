@@ -60,7 +60,7 @@ With a paid subscription you can choose specific servers in a country or a diffe
 
 ![image](https://github.com/user-attachments/assets/be065cd6-20bf-491a-bbb5-e6d40df3d50a)
 
-![image](https://github.com/user-attachments/assets/08f89243-960f-422a-b077-e67294d67ecb)
+
 
 ![image](https://github.com/user-attachments/assets/426d7f34-2e1f-46b4-a38b-8e671b257fa2)
 
