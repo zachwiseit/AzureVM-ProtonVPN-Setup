@@ -53,8 +53,10 @@ Click quick connect and it will connect you to a vpn server.
 ![image](https://github.com/user-attachments/assets/7259b29f-153b-4e41-8ca6-ac9367e54340)
 With the free version you can't choose the location but with a paid subscription you can.
 ![image](https://github.com/user-attachments/assets/17afd775-3216-4fc8-abe0-316ee89b9b99)
-
+If you go back to https://whatismyipaddress.com/ it will now show your new IP address and location. 
 ![image](https://github.com/user-attachments/assets/5480acff-d669-4932-a029-9ff5cfad25fc)
+
+With a paid subscription you can choose specific servers in a country or a different country entirely.
 
 ![image](https://github.com/user-attachments/assets/be065cd6-20bf-491a-bbb5-e6d40df3d50a)
 
