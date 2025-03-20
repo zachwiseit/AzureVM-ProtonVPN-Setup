@@ -41,9 +41,9 @@ After all of the resources have been created, copy the public IP address. Then o
 ![image](https://github.com/user-attachments/assets/9d4a3cbc-d2bd-4fec-8063-c61db67677ad)
 Now that you are logged into your virtual machine click onto microsoft edge and go to this website https://whatismyipaddress.com/ and see what your current IP address is.
 ![image](https://github.com/user-attachments/assets/19024eda-6d72-46c4-bd95-f228edb8dd0c)
-
+Next, go to https://protonvpn.com/ and make a free account.
 ![image](https://github.com/user-attachments/assets/5265a94d-b34d-4cfb-8b68-c1a38a33e0e0)
-
+Download the Proton VPN client for Windows.
 ![image](https://github.com/user-attachments/assets/0b1f6f54-fb61-4b29-919c-194c05470f10)
 
 ![image](https://github.com/user-attachments/assets/0c995294-12ea-44bc-afc2-a84b02cac044)
