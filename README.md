@@ -32,27 +32,16 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 
 <h2>Deployment and Configuration Steps</h2>
 
-
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+First you will have to sign into Microsoft Azure and create a virtual machine with all the necessary resources. 
 
 ![image](https://github.com/user-attachments/assets/c12ea3e9-cff5-442c-b38f-3a73cc595c8e)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-1
+
 ![image](https://github.com/user-attachments/assets/9d4a3cbc-d2bd-4fec-8063-c61db67677ad)
-2
+After all of the resources have been created, copy the public IP address. Then open the Microsoft App (for mac) and add a PC. Paste the IP address in the PC name section, choose a Friendly Name and click Add.
 ![image](https://github.com/user-attachments/assets/19024eda-6d72-46c4-bd95-f228edb8dd0c)
-3
+Click onto the PC and log in 
 ![image](https://github.com/user-attachments/assets/5265a94d-b34d-4cfb-8b68-c1a38a33e0e0)
 4
 ![image](https://github.com/user-attachments/assets/0b1f6f54-fb61-4b29-919c-194c05470f10)
