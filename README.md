@@ -36,36 +36,36 @@ First you will have to sign into Microsoft Azure and create a virtual machine wi
 
 ![image](https://github.com/user-attachments/assets/c12ea3e9-cff5-442c-b38f-3a73cc595c8e)
 
-
+After all of the resources have been created, copy the public IP address. Then open the Microsoft App (for mac) and add a PC. Paste the IP address in the PC name section, choose a Friendly Name and click Add.
 
 ![image](https://github.com/user-attachments/assets/9d4a3cbc-d2bd-4fec-8063-c61db67677ad)
-After all of the resources have been created, copy the public IP address. Then open the Microsoft App (for mac) and add a PC. Paste the IP address in the PC name section, choose a Friendly Name and click Add.
+
 ![image](https://github.com/user-attachments/assets/19024eda-6d72-46c4-bd95-f228edb8dd0c)
-Click onto the PC and log in 
+
 ![image](https://github.com/user-attachments/assets/5265a94d-b34d-4cfb-8b68-c1a38a33e0e0)
-4
+
 ![image](https://github.com/user-attachments/assets/0b1f6f54-fb61-4b29-919c-194c05470f10)
-5
+
 ![image](https://github.com/user-attachments/assets/0c995294-12ea-44bc-afc2-a84b02cac044)
-6
+
 ![image](https://github.com/user-attachments/assets/3de3a0ae-34c4-4cde-aa6d-d28e5c0b98cc)
-7
+
 ![image](https://github.com/user-attachments/assets/7259b29f-153b-4e41-8ca6-ac9367e54340)
-8
+
 ![image](https://github.com/user-attachments/assets/17afd775-3216-4fc8-abe0-316ee89b9b99)
-9
+
 ![image](https://github.com/user-attachments/assets/5480acff-d669-4932-a029-9ff5cfad25fc)
-10
+
 ![image](https://github.com/user-attachments/assets/be065cd6-20bf-491a-bbb5-e6d40df3d50a)
-11
+
 ![image](https://github.com/user-attachments/assets/08f89243-960f-422a-b077-e67294d67ecb)
-12
+
 ![image](https://github.com/user-attachments/assets/426d7f34-2e1f-46b4-a38b-8e671b257fa2)
-13
+
 ![image](https://github.com/user-attachments/assets/63b10c8d-6b4f-42f0-95a0-196d49ee5632)
-14
+
 ![image](https://github.com/user-attachments/assets/0903a0e0-e9c9-4b20-bc8b-28ba18d2fcbb)
-15
+
 ![image](https://github.com/user-attachments/assets/493c8c56-51fc-4f1d-8d32-5e2178fa0e56)
-16
+
 ![image](https://github.com/user-attachments/assets/b7f6b4ce-3751-4a21-ba4d-9df00f5f50d0)
