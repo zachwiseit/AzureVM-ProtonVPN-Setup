@@ -45,13 +45,13 @@ Next, go to https://protonvpn.com/ and make a free account.
 ![image](https://github.com/user-attachments/assets/5265a94d-b34d-4cfb-8b68-c1a38a33e0e0)
 Download the Proton VPN client for Windows.
 ![image](https://github.com/user-attachments/assets/0b1f6f54-fb61-4b29-919c-194c05470f10)
-
+When the download is finisehd select install. 
 ![image](https://github.com/user-attachments/assets/0c995294-12ea-44bc-afc2-a84b02cac044)
-
+Log into your account thropugh the Proton VPN application. 
 ![image](https://github.com/user-attachments/assets/3de3a0ae-34c4-4cde-aa6d-d28e5c0b98cc)
-
+Click quick connect and it will connect you to a vpn server.
 ![image](https://github.com/user-attachments/assets/7259b29f-153b-4e41-8ca6-ac9367e54340)
-
+Now you will see your new IP address
 ![image](https://github.com/user-attachments/assets/17afd775-3216-4fc8-abe0-316ee89b9b99)
 
 ![image](https://github.com/user-attachments/assets/5480acff-d669-4932-a029-9ff5cfad25fc)
