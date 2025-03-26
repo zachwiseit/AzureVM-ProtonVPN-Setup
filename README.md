@@ -142,6 +142,6 @@ Dont forget to go back to Azure and delete all resource groups to prevent any un
 
 ![image](https://github.com/user-attachments/assets/f4d38113-14db-4bc4-916a-cfe1c25910cd)
 
-![image](https://github.com/user-attachments/assets/f9327342-7f52-4b31-b608-f8c57acb58e2)
+![image](https://github.com/user-attachments/assets/c332d532-2b94-448c-8233-7ee342a64068)
 
-![image](https://github.com/user-attachments/assets/3e722fb0-b2d3-437a-8508-0a61e55d0a85)
+![image](https://github.com/user-attachments/assets/d3a906fd-6642-4568-a4ca-fddb5ebb05a3)
