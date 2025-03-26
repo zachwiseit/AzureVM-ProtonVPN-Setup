@@ -128,8 +128,20 @@ Now I have access to Frances Amazon store and their version of Netflix.
 
 Dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges.
 
-![image](https://github.com/user-attachments/assets/0903a0e0-e9c9-4b20-bc8b-28ba18d2fcbb)
+![image](https://github.com/user-attachments/assets/92652485-3d0a-4dd9-838e-68e876b4da93)
 
-In the Azure Home Section go to Resource Groups and delete all of the resource groups that were created for this virtual machine. 
+![image](https://github.com/user-attachments/assets/be165b43-66ee-4d95-ab5c-3be5d836d565)
 
-![image](https://github.com/user-attachments/assets/b7f6b4ce-3751-4a21-ba4d-9df00f5f50d0)
+![image](https://github.com/user-attachments/assets/1fe83fd2-a689-4ba0-ba70-e65593cf9bdb)
+
+![image](https://github.com/user-attachments/assets/473c92f3-48e1-4bb4-9914-09d9434ce9d2)
+
+![image](https://github.com/user-attachments/assets/8125c136-862f-438d-9ddf-87fa7441dcb2)
+
+![image](https://github.com/user-attachments/assets/e6f3eb2a-3e95-4243-9703-a88c0d999c4f)
+
+![image](https://github.com/user-attachments/assets/f4d38113-14db-4bc4-916a-cfe1c25910cd)
+
+![image](https://github.com/user-attachments/assets/f9327342-7f52-4b31-b608-f8c57acb58e2)
+
+![image](https://github.com/user-attachments/assets/3e722fb0-b2d3-437a-8508-0a61e55d0a85)
