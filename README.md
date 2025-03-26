@@ -34,35 +34,77 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 
 First you will have to sign into Microsoft Azure and create a virtual machine with all the necessary resources. 
 
-![image](https://github.com/user-attachments/assets/c12ea3e9-cff5-442c-b38f-3a73cc595c8e)
+![image](https://github.com/user-attachments/assets/31439c5a-1241-42fe-a3d9-2b15d2ccc223)
 
-After all of the resources have been created, copy the public IP address. Then open the Microsoft App (for mac) and add a PC. Paste the IP address in the PC name section, choose a Friendly Name and click Add.
+![image](https://github.com/user-attachments/assets/92addc01-7625-4e4e-b023-6cc7fc1d836a)
 
-![image](https://github.com/user-attachments/assets/9d4a3cbc-d2bd-4fec-8063-c61db67677ad)
+![image](https://github.com/user-attachments/assets/e44705cb-5f8b-45cd-8242-97a5edfac753)
 
-Now that you are logged into your virtual machine click onto microsoft edge and go to this website https://whatismyipaddress.com/ and see what your current IP address is.
+![image](https://github.com/user-attachments/assets/f0bc7d72-4c51-4426-832b-a146bb6ad192)
 
-![image](https://github.com/user-attachments/assets/19024eda-6d72-46c4-bd95-f228edb8dd0c)
+![image](https://github.com/user-attachments/assets/12cbd73d-1bbb-45fa-a7fd-2ed2efde3062)
 
-Next, go to https://protonvpn.com/ and make a free account or subscription.
+![image](https://github.com/user-attachments/assets/3196ab89-fde4-403f-af39-7fe7e961a1e4)
 
-![image](https://github.com/user-attachments/assets/5265a94d-b34d-4cfb-8b68-c1a38a33e0e0)
+![image](https://github.com/user-attachments/assets/acf0e8be-d250-4a59-a777-077e6f7d0106)
 
-Download the Proton VPN client for Windows.
+![image](https://github.com/user-attachments/assets/92541ccb-257e-41a3-b9e4-dc76226b95f8)
 
-![image](https://github.com/user-attachments/assets/0b1f6f54-fb61-4b29-919c-194c05470f10)
+![image](https://github.com/user-attachments/assets/10d40db6-4ac6-4e16-ae16-7d831e632dad)
 
-When the download is finisehd select install. 
+![image](https://github.com/user-attachments/assets/abf01958-4b6e-4507-849b-1002b93261ab)
 
-![image](https://github.com/user-attachments/assets/0c995294-12ea-44bc-afc2-a84b02cac044)
+![image](https://github.com/user-attachments/assets/d77e1fb8-35c9-4ce3-a3f9-e74248afadbb)
 
-Log into your account thropugh the Proton VPN application. 
+![image](https://github.com/user-attachments/assets/483cf06d-4735-46ff-9c1a-d0637f0ace72)
 
-![image](https://github.com/user-attachments/assets/3de3a0ae-34c4-4cde-aa6d-d28e5c0b98cc)
+![image](https://github.com/user-attachments/assets/1c4f8d72-90ab-4cf1-8081-462ada588163)
 
-Click quick connect and it will connect you to a vpn server.
+![image](https://github.com/user-attachments/assets/75c03936-0233-4145-8c47-484ea2e3b5e9)
 
-![image](https://github.com/user-attachments/assets/7259b29f-153b-4e41-8ca6-ac9367e54340)
+![image](https://github.com/user-attachments/assets/ac00ae9d-270d-4d28-814e-76ac49be0a22)
+
+![image](https://github.com/user-attachments/assets/763ddd6e-333c-433e-abc0-04931903f5bb)
+
+![image](https://github.com/user-attachments/assets/4f70284c-fecf-4ee4-b950-2f4e76fdb28b)
+
+![image](https://github.com/user-attachments/assets/5c693e9d-7395-4ffd-94f4-ee9b8b287ce8)
+
+![image](https://github.com/user-attachments/assets/ca5fa26b-2f63-4a3c-b060-65fe3f8703e5)
+
+![image](https://github.com/user-attachments/assets/7673bde5-1099-4977-8594-c9ac82959222)
+
+![image](https://github.com/user-attachments/assets/8cc8464f-7b91-434a-b0aa-27a9ff6b6084)
+
+![image](https://github.com/user-attachments/assets/1e2a7b7c-16b9-41f0-91be-f4f302d22b20)
+
+![image](https://github.com/user-attachments/assets/c92cabc1-0afa-49cc-afdb-ce9821f25fcd)
+
+![image](https://github.com/user-attachments/assets/1c6a008a-fd48-4e3c-af0c-174a963bbf4f)
+
+![image](https://github.com/user-attachments/assets/9b33d5bb-1825-4916-86bc-127cd9a0da90)
+
+![image](https://github.com/user-attachments/assets/3ddd8843-b7f1-4026-862f-e1c213d7ce96)
+
+![image](https://github.com/user-attachments/assets/1e7c6da8-f036-471c-8bb2-9976f9b239ac)
+
+![image](https://github.com/user-attachments/assets/07dd028f-d1bc-428c-a3c8-d44a9f402ede)
+
+![image](https://github.com/user-attachments/assets/7e152634-ab0f-4673-aa1b-0a29b26fb3ca)
+
+![image](https://github.com/user-attachments/assets/f1180b37-ef81-45a3-a137-2f92d04ebabf)
+
+![image](https://github.com/user-attachments/assets/3b9e5162-f7c9-4e12-8512-52c09ee420a9)
+
+![image](https://github.com/user-attachments/assets/7f08275c-229c-40a5-a612-b0cc7e3fbd2f)
+
+![image](https://github.com/user-attachments/assets/3c03f7ed-0e93-42ab-85bb-32e6d54580a0)
+
+![image](https://github.com/user-attachments/assets/c063ee02-79d0-46c2-8a68-683a1957447c)
+
+![image](https://github.com/user-attachments/assets/4310aeb5-06e7-4b59-8f5f-9e9a9f14e3b3)
+
+
 
 With the free version you can't choose the location but with a paid subscription you can.
 
