@@ -62,11 +62,15 @@ Choose a username and password. (Right it down)
 
 ![image](https://github.com/user-attachments/assets/acf0e8be-d250-4a59-a777-077e6f7d0106)
 
-
+Under Licensing make sure to check the box for Windows 10/11 licensing. After that click "Next : Disk".
 
 ![image](https://github.com/user-attachments/assets/10d40db6-4ac6-4e16-ae16-7d831e632dad)
 
+Click "Next : Networking". 
+
 ![image](https://github.com/user-attachments/assets/abf01958-4b6e-4507-849b-1002b93261ab)
+
+
 
 ![image](https://github.com/user-attachments/assets/d77e1fb8-35c9-4ce3-a3f9-e74248afadbb)
 
