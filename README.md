@@ -64,8 +64,6 @@ Choose a username and password. (Right it down)
 
 
 
-![image](https://github.com/user-attachments/assets/92541ccb-257e-41a3-b9e4-dc76226b95f8)
-
 ![image](https://github.com/user-attachments/assets/10d40db6-4ac6-4e16-ae16-7d831e632dad)
 
 ![image](https://github.com/user-attachments/assets/abf01958-4b6e-4507-849b-1002b93261ab)
