@@ -36,17 +36,32 @@ First you will have to sign into Microsoft Azure and create a virtual machine wi
 
 ![image](https://github.com/user-attachments/assets/31439c5a-1241-42fe-a3d9-2b15d2ccc223)
 
+After you sign in click on the Virtual Machines section. 
+
 ![image](https://github.com/user-attachments/assets/92addc01-7625-4e4e-b023-6cc7fc1d836a)
+
+Click create on the left and from the drop down click on the first option "Azure virtual machine".
 
 ![image](https://github.com/user-attachments/assets/e44705cb-5f8b-45cd-8242-97a5edfac753)
 
+In the resource group section click "Create new" and choose a name. 
+
 ![image](https://github.com/user-attachments/assets/f0bc7d72-4c51-4426-832b-a146bb6ad192)
+
+For "Instance details" choose a virtual machine name and a region. 
 
 ![image](https://github.com/user-attachments/assets/12cbd73d-1bbb-45fa-a7fd-2ed2efde3062)
 
+Scroll down to "Image" and make sure to choose a Windows operating system. 
+
 ![image](https://github.com/user-attachments/assets/3196ab89-fde4-403f-af39-7fe7e961a1e4)
 
+Next for "size" choose any option with a minimum of 2 vcpus for ideal performance. 
+Choose a username and password. (Right it down) 
+
 ![image](https://github.com/user-attachments/assets/acf0e8be-d250-4a59-a777-077e6f7d0106)
+
+
 
 ![image](https://github.com/user-attachments/assets/92541ccb-257e-41a3-b9e4-dc76226b95f8)
 
