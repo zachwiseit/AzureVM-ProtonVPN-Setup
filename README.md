@@ -90,13 +90,19 @@ From this page copy the public IP address for your virtual machine.
 
 ![image](https://github.com/user-attachments/assets/763ddd6e-333c-433e-abc0-04931903f5bb)
 
-Open the Windows APP.
+Open the Windows APP. 
+
+At the top right next to the plus icon click the down arrow. 
+
+Click Add PC.
 
 ![image](https://github.com/user-attachments/assets/4f70284c-fecf-4ee4-b950-2f4e76fdb28b)
 
-At the top right nexto the plus icon click the down arrow. next click Add PC.
+For "PC name" paste the public IP address.
 
 ![image](https://github.com/user-attachments/assets/5c693e9d-7395-4ffd-94f4-ee9b8b287ce8)
+
+
 
 ![image](https://github.com/user-attachments/assets/ca5fa26b-2f63-4a3c-b060-65fe3f8703e5)
 
