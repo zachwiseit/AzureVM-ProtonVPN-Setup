@@ -70,17 +70,23 @@ Click "Next : Networking".
 
 ![image](https://github.com/user-attachments/assets/abf01958-4b6e-4507-849b-1002b93261ab)
 
+Click "Reveiw + create".
 
 ![image](https://github.com/user-attachments/assets/0b2b82d0-f6c4-44da-a548-453a904a60f3)
 
-
-
+Now click "Create".
 
 ![image](https://github.com/user-attachments/assets/1c4f8d72-90ab-4cf1-8081-462ada588163)
 
+Azure will now create and deploy all necessary resources for the virtual machine. 
+
 ![image](https://github.com/user-attachments/assets/75c03936-0233-4145-8c47-484ea2e3b5e9)
 
+After the deployment is complete go back to the home page and click "Virtual machines".
+
 ![image](https://github.com/user-attachments/assets/ac00ae9d-270d-4d28-814e-76ac49be0a22)
+
+From this page copy the public IP address for your virtual machine. 
 
 ![image](https://github.com/user-attachments/assets/763ddd6e-333c-433e-abc0-04931903f5bb)
 
