@@ -132,7 +132,7 @@ After everything is set up start up Microsoft Edge and fo to [
 
 ![image](https://github.com/user-attachments/assets/0836ddca-405a-4613-ac63-9626e9a892d8)
 
-Now go to (https://protonvpn.com/ and download Proton VPN for Windows.
+Now go to https://protonvpn.com/ and download Proton VPN for Windows.
 
 
 ![image](https://github.com/user-attachments/assets/9b33d5bb-1825-4916-86bc-127cd9a0da90)
