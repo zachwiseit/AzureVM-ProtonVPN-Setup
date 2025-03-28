@@ -74,7 +74,7 @@ Click "Next : Networking".
 
 
 
-![image](https://github.com/user-attachments/assets/483cf06d-4735-46ff-9c1a-d0637f0ace72)
+
 
 ![image](https://github.com/user-attachments/assets/1c4f8d72-90ab-4cf1-8081-462ada588163)
 
