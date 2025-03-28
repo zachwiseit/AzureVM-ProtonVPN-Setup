@@ -124,7 +124,7 @@ Now the process will begin to start up your vitual machine.
 
 Select no for all of these (they dont matter). 
 
-
+![image](https://github.com/user-attachments/assets/812d05b5-31e7-4fc2-8dc9-b006f296a14c)
 
 ![image](https://github.com/user-attachments/assets/0836ddca-405a-4613-ac63-9626e9a892d8)
 
