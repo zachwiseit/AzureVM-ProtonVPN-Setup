@@ -137,20 +137,32 @@ Now go to https://protonvpn.com/ and download Proton VPN for Windows.
 
 ![image](https://github.com/user-attachments/assets/9b33d5bb-1825-4916-86bc-127cd9a0da90)
 
-
+When the download is complete click "Open file".
 
 ![image](https://github.com/user-attachments/assets/3ddd8843-b7f1-4026-862f-e1c213d7ce96)
-4
+
+Selecte your prefered language.
+
 ![image](https://github.com/user-attachments/assets/1e7c6da8-f036-471c-8bb2-9976f9b239ac)
-5
+
+Click "Next".
+
 ![image](https://github.com/user-attachments/assets/07dd028f-d1bc-428c-a3c8-d44a9f402ede)
-6
+
+Select the proton apps you want to install and click "Install".
+
 ![image](https://github.com/user-attachments/assets/7e152634-ab0f-4673-aa1b-0a29b26fb3ca)
-7
+
+The program will begin to setup.
+
 ![image](https://github.com/user-attachments/assets/f1180b37-ef81-45a3-a137-2f92d04ebabf)
-8
+
+Click on the Proton VPN app and create an account and sign in.
+
 ![image](https://github.com/user-attachments/assets/3b9e5162-f7c9-4e12-8512-52c09ee420a9)
-9
+
+
+
 ![image](https://github.com/user-attachments/assets/7f08275c-229c-40a5-a612-b0cc7e3fbd2f)
 10
 ![image](https://github.com/user-attachments/assets/3c03f7ed-0e93-42ab-85bb-32e6d54580a0)
