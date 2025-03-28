@@ -58,7 +58,7 @@ Scroll down to "Image" and make sure to choose a Windows operating system.
 
 Next for "size" choose any option with a minimum of 2 vcpus for ideal performance. 
 
-Choose a username and password. (Right it down) 
+Choose a username and password. (write it down) 
 
 ![image](https://github.com/user-attachments/assets/acf0e8be-d250-4a59-a777-077e6f7d0106)
 
