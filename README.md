@@ -126,7 +126,7 @@ Select no for all of these (they dont matter).
 
 
 
-![image](https://github.com/user-attachments/assets/1c6a008a-fd48-4e3c-af0c-174a963bbf4f)
+![image](https://github.com/user-attachments/assets/0836ddca-405a-4613-ac63-9626e9a892d8)
 
 ![image](https://github.com/user-attachments/assets/9b33d5bb-1825-4916-86bc-127cd9a0da90)
 
@@ -175,6 +175,8 @@ Now I have access to Frances Amazon store and their version of Netflix.
 Dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges.
 
 ![image](https://github.com/user-attachments/assets/92652485-3d0a-4dd9-838e-68e876b4da93)
+
+
 
 ![image](https://github.com/user-attachments/assets/be165b43-66ee-4d95-ab5c-3be5d836d565)
 
