@@ -100,11 +100,13 @@ Click Add PC.
 
 For "PC name" paste the public IP address.
 
+Now choose a name for the "Friendly name:" (It can be anything you want). 
+
 ![image](https://github.com/user-attachments/assets/5c693e9d-7395-4ffd-94f4-ee9b8b287ce8)
 
 
 
-![image](https://github.com/user-attachments/assets/ca5fa26b-2f63-4a3c-b060-65fe3f8703e5)
+![image](https://github.com/user-attachments/assets/ee181ab0-fa9c-4993-ab00-a27c47dd1856)
 
 ![image](https://github.com/user-attachments/assets/7673bde5-1099-4977-8594-c9ac82959222)
 
