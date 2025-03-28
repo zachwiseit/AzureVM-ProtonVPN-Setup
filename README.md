@@ -102,19 +102,29 @@ For "PC name" paste the public IP address.
 
 Now choose a name for the "Friendly name:" (It can be anything you want). 
 
+Click "Add".
+
 ![image](https://github.com/user-attachments/assets/5c693e9d-7395-4ffd-94f4-ee9b8b287ce8)
 
-
+Now that the PC has been added click on it to log in.
 
 ![image](https://github.com/user-attachments/assets/ee181ab0-fa9c-4993-ab00-a27c47dd1856)
 
+Now enter the credentials you created earlier to log in. 
+
 ![image](https://github.com/user-attachments/assets/7673bde5-1099-4977-8594-c9ac82959222)
+
+Click "Continue".
 
 ![image](https://github.com/user-attachments/assets/8cc8464f-7b91-434a-b0aa-27a9ff6b6084)
 
+Now the process will begin to start up your vitual machine. 
+
 ![image](https://github.com/user-attachments/assets/1e2a7b7c-16b9-41f0-91be-f4f302d22b20)
 
-![image](https://github.com/user-attachments/assets/c92cabc1-0afa-49cc-afdb-ce9821f25fcd)
+Select no for all of these (they dont matter). 
+
+
 
 ![image](https://github.com/user-attachments/assets/1c6a008a-fd48-4e3c-af0c-174a963bbf4f)
 
