@@ -125,11 +125,20 @@ Now the process will begin to start up your vitual machine.
 Select no for all of these (they dont matter). 
 
 ![image](https://github.com/user-attachments/assets/812d05b5-31e7-4fc2-8dc9-b006f296a14c)
-1
+
+After everything is set up start up Microsoft Edge and fo to [
+
+](https://whatismyipaddress.com/) to see your current IP address without a vpn. 
+
 ![image](https://github.com/user-attachments/assets/0836ddca-405a-4613-ac63-9626e9a892d8)
-2
+
+Now go to [](https://protonvpn.com/) and download Proton VPN for Windows.
+
+
 ![image](https://github.com/user-attachments/assets/9b33d5bb-1825-4916-86bc-127cd9a0da90)
-3
+
+
+
 ![image](https://github.com/user-attachments/assets/3ddd8843-b7f1-4026-862f-e1c213d7ce96)
 4
 ![image](https://github.com/user-attachments/assets/1e7c6da8-f036-471c-8bb2-9976f9b239ac)
