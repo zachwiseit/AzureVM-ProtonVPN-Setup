@@ -161,49 +161,49 @@ Click on the Proton VPN app and create an account and sign in.
 
 ![image](https://github.com/user-attachments/assets/3b9e5162-f7c9-4e12-8512-52c09ee420a9)
 
-
+At the top left click connect and it will connect you to the closest server. 
 
 ![image](https://github.com/user-attachments/assets/7f08275c-229c-40a5-a612-b0cc7e3fbd2f)
-10
+
+Now go back to the the website [](https://whatismyipaddress.com/) and you will see your new IP address. 
+
 ![image](https://github.com/user-attachments/assets/3c03f7ed-0e93-42ab-85bb-32e6d54580a0)
-11
+
+Now try clicking on a different country like France for example and check the difference. 
+
 ![image](https://github.com/user-attachments/assets/c063ee02-79d0-46c2-8a68-683a1957447c)
-12
+
+Going back to [](https://whatismyipaddress.com/) you will see the change in your IP address to that country.
+
 ![image](https://github.com/user-attachments/assets/4310aeb5-06e7-4b59-8f5f-9e9a9f14e3b3)
 
-
-
-With the free version you can't choose the location but with a paid subscription you can.
-
-![image](https://github.com/user-attachments/assets/17afd775-3216-4fc8-abe0-316ee89b9b99)
-
-If you go back to https://whatismyipaddress.com/ it will now show your new IP address and location. 
-
-![image](https://github.com/user-attachments/assets/5480acff-d669-4932-a029-9ff5cfad25fc)
-
-With a paid subscription you can choose specific servers in a country or a different country entirely.
-
-![image](https://github.com/user-attachments/assets/be065cd6-20bf-491a-bbb5-e6d40df3d50a)
-
-Next try going to websites you would normaly use like Amazon or Nteflix and see the difference. 
+Next try going to websites you would normaly use like Amazon or Netflix and see the difference. 
 
 ![image](https://github.com/user-attachments/assets/426d7f34-2e1f-46b4-a38b-8e671b257fa2)
 
-Now I have access to Frances Amazon store and their version of Netflix. 
+Now your search will take you to that countries Amazon store and their Netflix. 
 
 ![image](https://github.com/user-attachments/assets/63b10c8d-6b4f-42f0-95a0-196d49ee5632)
 
-Dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges.
+Dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
+
+From the Azure home screen go to "Resource groups" selecte the resource and click "Delete resource group". 
 
 ![image](https://github.com/user-attachments/assets/92652485-3d0a-4dd9-838e-68e876b4da93)
 
-
+Enter the resource group name at the bottom and click "Delete".
 
 ![image](https://github.com/user-attachments/assets/be165b43-66ee-4d95-ab5c-3be5d836d565)
 
+Click "Delete" again to confirm.
+
 ![image](https://github.com/user-attachments/assets/1fe83fd2-a689-4ba0-ba70-e65593cf9bdb)
 
+Now repeat the process with any other resource groups that have been created. 
+
 ![image](https://github.com/user-attachments/assets/473c92f3-48e1-4bb4-9914-09d9434ce9d2)
+
+
 
 ![image](https://github.com/user-attachments/assets/f4d38113-14db-4bc4-916a-cfe1c25910cd)
 
