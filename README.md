@@ -203,10 +203,16 @@ Now repeat the process with any other resource groups that have been created.
 
 ![image](https://github.com/user-attachments/assets/473c92f3-48e1-4bb4-9914-09d9434ce9d2)
 
-
+When the process is complete you will recieve a notification that the resource has been deleted.
 
 ![image](https://github.com/user-attachments/assets/f4d38113-14db-4bc4-916a-cfe1c25910cd)
 
+You can also go back to the resource groups section and it state that their are no resource groups to display.
+
 ![image](https://github.com/user-attachments/assets/c332d532-2b94-448c-8233-7ee342a64068)
+
+When you delete the resource groups that will include the virtual machine that was created. 
+
+In the Virtual machines section it will also state that their are no virtual machines to display.
 
 ![image](https://github.com/user-attachments/assets/d3a906fd-6642-4568-a4ca-fddb5ebb05a3)
