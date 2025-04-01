@@ -179,11 +179,11 @@ Going back to [](https://whatismyipaddress.com/) you will see the change in your
 
 Next try going to websites you would normaly use like Amazon or Netflix and see the difference. 
 
-![image](https://github.com/user-attachments/assets/426d7f34-2e1f-46b4-a38b-8e671b257fa2)
+![image](https://github.com/user-attachments/assets/83342b58-9f90-4bad-b982-bbff6c7921a2)
 
 Now your search will take you to that countries Amazon store and their Netflix. 
 
-![image](https://github.com/user-attachments/assets/63b10c8d-6b4f-42f0-95a0-196d49ee5632)
+![image](https://github.com/user-attachments/assets/24cf5f26-776d-4b73-83d5-f15893bdb12f)
 
 Dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
 
