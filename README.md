@@ -13,22 +13,22 @@ This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Windows App
-- Proton VPN
+- Proton VPN (https://protonvpn.com/)
 - https://whatismyipaddress.com
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 
 - macOS Sonama 14.6.1
 
 <h2>Configuration Steps</h2>
 
-- Build Virtual Machines in Azure 
+- Build a Virtual Machine in Azure 
 - Test IP address without a VPN 
 - Configure Proton VPN 
 - Compare the IP addresses
-- Test different websites 
+- Test different websites
+- Delete Azure resources created. 
 
 <h2>Deployment and Configuration Steps</h2>
 
