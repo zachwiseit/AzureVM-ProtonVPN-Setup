@@ -18,7 +18,7 @@ This tutorial will show the steps needed to create a Windows virtual machine and
 
 <h2>Operating Systems</h2>
 
-- Windows 10 
+- Windows 10 22H2
 - macOS Sonama 14.6.1
 
 <h2>Configuration Steps</h2>
