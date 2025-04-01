@@ -126,7 +126,7 @@ Select no for all of these (they dont matter).
 
 ![image](https://github.com/user-attachments/assets/812d05b5-31e7-4fc2-8dc9-b006f296a14c)
 
-After everything is set up start up Microsoft Edge and fo to (https://whatismyipaddress.com/) 
+After everything is set up start up Microsoft Edge and fo to https://whatismyipaddress.com/
 to see your current IP address without a vpn. 
 
 ![image](https://github.com/user-attachments/assets/0836ddca-405a-4613-ac63-9626e9a892d8)
