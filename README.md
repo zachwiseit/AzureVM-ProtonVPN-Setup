@@ -2,21 +2,21 @@
 
 
 
-<h1>Proton VPN Configuration</h1>
+<h1>Proton VPN Setup and Application</h1>
 This tutorial will show the necessary steps to setup Proton VPN on a Windows 10 virtual Machine.<br />
 
 
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies </h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Windows App
 - Proton VPN (https://protonvpn.com/)
 - https://whatismyipaddress.com
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems</h2>
 
 - Windows 10 
 - macOS Sonama 14.6.1
@@ -126,7 +126,7 @@ Select no for all of these (they dont matter).
 
 ![image](https://github.com/user-attachments/assets/812d05b5-31e7-4fc2-8dc9-b006f296a14c)
 
-After everything is set up start up Microsoft Edge and fo to https://whatismyipaddress.com/
+After everything is set up start up Microsoft Edge and go to https://whatismyipaddress.com/
 to see your current IP address without a vpn. 
 
 ![image](https://github.com/user-attachments/assets/0836ddca-405a-4613-ac63-9626e9a892d8)
@@ -163,11 +163,12 @@ At the top left click connect and it will connect you to the closest server.
 
 ![image](https://github.com/user-attachments/assets/7f08275c-229c-40a5-a612-b0cc7e3fbd2f)
 
-Now go back to the the website [](https://whatismyipaddress.com/) and you will see your new IP address. 
+Now go back to the the website https://whatismyipaddress.com/ and you will see your new IP address. 
 
 ![image](https://github.com/user-attachments/assets/3c03f7ed-0e93-42ab-85bb-32e6d54580a0)
 
 Now try clicking on a different country like France for example and check the difference. 
+(choosing a different location is only an option for their paid subscription.)
 
 ![image](https://github.com/user-attachments/assets/c063ee02-79d0-46c2-8a68-683a1957447c)
 
@@ -179,13 +180,13 @@ Next try going to websites you would normaly use like Amazon or Netflix and see 
 
 ![image](https://github.com/user-attachments/assets/83342b58-9f90-4bad-b982-bbff6c7921a2)
 
-Now your search will take you to that countries Amazon store and their Netflix. 
+Now you will have access to that countries Amazon store and their Netflix. 
 
 ![image](https://github.com/user-attachments/assets/24cf5f26-776d-4b73-83d5-f15893bdb12f)
 
-Dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
+When you are dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
 
-From the Azure home screen go to "Resource groups" selecte the resource and click "Delete resource group". 
+From the Azure home screen go to "Resource groups" selecte one of the resources created and click "Delete resource group". 
 
 ![image](https://github.com/user-attachments/assets/92652485-3d0a-4dd9-838e-68e876b4da93)
 
@@ -205,12 +206,12 @@ When the process is complete you will recieve a notification that the resource h
 
 ![image](https://github.com/user-attachments/assets/f4d38113-14db-4bc4-916a-cfe1c25910cd)
 
-You can also go back to the resource groups section and it state that their are no resource groups to display.
+You can also go back to the resource groups section and there wont be any resource groups to display.
 
 ![image](https://github.com/user-attachments/assets/c332d532-2b94-448c-8233-7ee342a64068)
 
 When you delete the resource groups that will include the virtual machine that was created. 
 
-In the Virtual machines section it will also state that their are no virtual machines to display.
+In the Virtual machines section it will also show that their are no virtual machines to display.
 
 ![image](https://github.com/user-attachments/assets/d3a906fd-6642-4568-a4ca-fddb5ebb05a3)
