@@ -38,11 +38,11 @@ First you will have to sign into Microsoft Azure and create a virtual machine wi
 
 ![image](https://github.com/user-attachments/assets/31439c5a-1241-42fe-a3d9-2b15d2ccc223)
 
-After you sign in click on the Virtual Machines section. 
+After you sign in click on the "Virtual machines" section. 
 
 ![image](https://github.com/user-attachments/assets/92addc01-7625-4e4e-b023-6cc7fc1d836a)
 
-Click create on the left and from the drop down click on the first option "Azure virtual machine".
+Click "Create" on the left and from the drop down click on the first option "Azure virtual machine".
 
 ![image](https://github.com/user-attachments/assets/e44705cb-5f8b-45cd-8242-97a5edfac753)
 
@@ -72,7 +72,7 @@ Click "Next : Networking".
 
 ![image](https://github.com/user-attachments/assets/abf01958-4b6e-4507-849b-1002b93261ab)
 
-Click "Reveiw + create".
+Click "Review + create".
 
 ![image](https://github.com/user-attachments/assets/0b2b82d0-f6c4-44da-a548-453a904a60f3)
 
@@ -153,11 +153,11 @@ Select the proton apps you want to install and click "Install".
 
 ![image](https://github.com/user-attachments/assets/7e152634-ab0f-4673-aa1b-0a29b26fb3ca)
 
-The program will begin to setup.
+The program will begin to install.
 
 ![image](https://github.com/user-attachments/assets/f1180b37-ef81-45a3-a137-2f92d04ebabf)
 
-Click on the Proton VPN app and create an account and sign in.
+Click on the Proton VPN app, create an account, and sign into the application
 
 ![image](https://github.com/user-attachments/assets/3b9e5162-f7c9-4e12-8512-52c09ee420a9)
 
@@ -169,12 +169,12 @@ Now go back to the the website https://whatismyipaddress.com/ and you will see y
 
 ![image](https://github.com/user-attachments/assets/3c03f7ed-0e93-42ab-85bb-32e6d54580a0)
 
-Now try clicking on a different country like France for example and check the difference. 
-(choosing a different location is only an option for their paid subscription.)
+Now try clicking on a different country like France for example and check the difference
+(choosing a different location is only an option for their paid subscription).
 
 ![image](https://github.com/user-attachments/assets/c063ee02-79d0-46c2-8a68-683a1957447c)
 
-Going back to [](https://whatismyipaddress.com/) you will see the change in your IP address to that country.
+Going back to https://whatismyipaddress.com/ you will see the change in your IP address to that country.
 
 ![image](https://github.com/user-attachments/assets/4310aeb5-06e7-4b59-8f5f-9e9a9f14e3b3)
 
@@ -186,7 +186,7 @@ Now you will have access to that countries Amazon store and their Netflix.
 
 ![image](https://github.com/user-attachments/assets/24cf5f26-776d-4b73-83d5-f15893bdb12f)
 
-When you are dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
+When you are done dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
 
 From the Azure home screen go to "Resource groups" selecte one of the resources created and click "Delete resource group". 
 
