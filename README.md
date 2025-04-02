@@ -5,7 +5,7 @@
 <h1>Establishing a Private Gateway:
  
  Integrating Proton VPN with Azure VMs</h1>
-Virtual machines and VPN's are very useful tools for both security and effeciency. Here is a guide show the necessary steps to build a Azure virtual machine and set up a vpn service for it.<br />
+Virtual machines and VPN's are very useful tools for both security and effeciency. Here is a guide show the necessary steps and resources to build a Azure virtual machine and set up a vpn service for it.<br />
 
 
 
