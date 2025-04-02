@@ -23,7 +23,7 @@ Virtual machines and VPN's are very useful tools for both security and effecienc
 - Windows 10 22H2
 - macOS Sonama 14.6.1
 
-<h2>Configuration Steps</h2>
+<h2>Necessary Steps</h2>
 
 - Build a Virtual Machine in Azure 
 - Test IP address without a VPN 
