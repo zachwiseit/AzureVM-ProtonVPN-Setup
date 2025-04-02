@@ -2,7 +2,7 @@
 
 
 
-<h1>Proton VPN Setup and Application</h1>
+<h1>Building a Private and Secure Network on Azure with Proton VPN</h1>
 This tutorial will show the steps to setup a VPN on a Azure virtual machine.<br />
 
 
