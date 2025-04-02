@@ -27,7 +27,7 @@ Virtual machines and VPN's are very useful tools for both security and effecienc
 
 - Build a Virtual Machine in Azure 
 - Test IP address without a VPN 
-- Configure Proton VPN 
+- Setup Proton VPN 
 - Compare the IP addresses
 - Test different websites
 - Delete Azure resources created. 
