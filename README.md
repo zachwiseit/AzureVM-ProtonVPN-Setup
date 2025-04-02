@@ -32,7 +32,7 @@ Virtual machines and VPN's are very useful tools for both security and effecienc
 - Test different websites
 - Delete Azure resources created. 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Deployment and Set up</h2>
 
 First you will have to sign into Microsoft Azure and create a virtual machine with all the necessary resources. 
 
