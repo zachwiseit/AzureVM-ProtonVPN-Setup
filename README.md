@@ -2,7 +2,7 @@
 
 
 
-<h1>Building a Private and Secure Network on Azure with Proton VPN</h1>
+<h1>Establishing a Private Gateway: Integrating Proton VPN with Azure VMs</h1>
 This tutorial will show the steps to setup a VPN on a Azure virtual machine.<br />
 
 
