@@ -15,7 +15,7 @@ Virtual machines and VPN's are very useful tools for both security and effecienc
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Windows App
-- Proton VPN https://protonvpn.com/ (With a paid subscription)
+- Proton VPN (With a paid subscription) https://protonvpn.com/
 - https://whatismyipaddress.com
 
 <h2>Operating Systems</h2>
