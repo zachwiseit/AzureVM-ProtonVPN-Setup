@@ -5,7 +5,7 @@
 <h1>Establishing a Private Gateway:
  
  Integrating Proton VPN with Azure VMs</h1>
-Virtual machines and VPN's are very useful tools for both security and effeciency. Here is a guide show the necessary steps and resources to build a Azure virtual machine and set up a vpn service for it.<br />
+Virtual machines and VPNs are very useful tools for both security and efficiency. Here is a guide that shows the necessary steps and resources to build an Azure virtual machine and set up a vpn service for it.<br />
 
 
 
@@ -141,7 +141,7 @@ When the download is complete click "Open file".
 
 ![image](https://github.com/user-attachments/assets/3ddd8843-b7f1-4026-862f-e1c213d7ce96)
 
-Selecte your prefered language.
+Select your prefered language.
 
 ![image](https://github.com/user-attachments/assets/1e7c6da8-f036-471c-8bb2-9976f9b239ac)
 
@@ -188,7 +188,7 @@ Now you will have access to that countries Amazon store and their Netflix.
 
 When you are done dont forget to go back to Azure and delete all resource groups to prevent any unnecessary charges. 
 
-From the Azure home screen go to "Resource groups" selecte one of the resources created and click "Delete resource group". 
+From the Azure home screen go to "Resource groups" select one of the resources created and click "Delete resource group". 
 
 ![image](https://github.com/user-attachments/assets/92652485-3d0a-4dd9-838e-68e876b4da93)
 
